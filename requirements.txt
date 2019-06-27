@@ -21,7 +21,7 @@ numba==0.33.0
 tensorflow==1.13.1
 networkx==1.11
 BlackBoxAuditing;python_version>="3"
-# lime
+lime
 
 #Eirik sine pakker
 #psycopg2==2.7.5
