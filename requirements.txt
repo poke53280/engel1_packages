@@ -20,7 +20,7 @@ cvxpy>=1.0
 numba
 tensorflow==1.13.1
 networkx==1.11
-BlackBoxAuditing;python_version>="3"
+#BlackBoxAuditing;python_version>="3"
 lime
 
 #Eirik sine pakker
